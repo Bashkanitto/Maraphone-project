@@ -4,7 +4,9 @@ import checkImg from '../components/Checklist-Circle.png'
 
 const About = () => {
       return (
-    <div className='about w-100 min-h-screen flex justify-center mt-40 items-center relative'>
+    <div className='about w-100 min-h-screen flex justify-center mt-40 asd
+    
+    items-center relative'>
         <img src={aboutImg} className="about-left " width="800px" height='800px'/>
         <div className="w-100 flex-column">
             <h2 className='text-[#282C4B] font-bold leading-[50px]'>Как пройдет <br /> наш новый марафон?</h2>
