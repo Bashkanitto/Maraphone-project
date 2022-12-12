@@ -1,6 +1,8 @@
 import Main from "./components/Main";
 import About from './components/About'
 import Buns from "./components/Buns";
+import Review from './components/Review';
+import Ways from "./components/Ways";
 
 
 
@@ -11,6 +13,8 @@ function App() {
       <Main/>
       <About/>
       <Buns/>
+      <Review/>
+      <Ways/>
     </div>
     </header>
   );
